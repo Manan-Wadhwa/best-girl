@@ -1,0 +1,65 @@
+[
+  {
+    "name": "Rem",
+    "wiki": "saimoe",
+    "status": "fetched",
+    "url": "https://saimoe.fandom.com/en/wiki/Rem_(Re:Zero)",
+    "error": null
+  },
+  {
+    "name": "Asuna Yuuki",
+    "wiki": "hero",
+    "status": "fetched",
+    "url": "https://hero.fandom.com/en/wiki/Asuna_Yuuki",
+    "error": null
+  },
+  {
+    "name": "Nico Robin",
+    "wiki": "onepiece",
+    "status": "fetched",
+    "url": "https://onepiece.fandom.com/en/wiki/Nico_Robin",
+    "error": null
+  },
+  {
+    "name": "Rias Gremory",
+    "wiki": "highschooldxd",
+    "status": "fetched",
+    "url": "https://highschooldxd.fandom.com/en/wiki/Rias_Gremory",
+    "error": null
+  },
+  {
+    "name": "Mai Sakurajima",
+    "wiki": "aobuta",
+    "status": "fetched",
+    "url": "https://aobuta.fandom.com/en/wiki/Mai_Sakurajima",
+    "error": null
+  },
+  {
+    "name": "C.C.",
+    "wiki": "codegeass",
+    "status": "fetched",
+    "url": "https://codegeass.fandom.com/en/wiki/C.C.",
+    "error": null
+  },
+  {
+    "name": "Emilia",
+    "wiki": "saimoe",
+    "status": "fetched",
+    "url": "https://saimoe.fandom.com/en/wiki/Emilia_(Re:Zero)",
+    "error": null
+  },
+  {
+    "name": "Shinobu Oshino",
+    "wiki": "bakemonogatari",
+    "status": "fetched",
+    "url": "https://bakemonogatari.fandom.com/en/wiki/Shinobu_Oshino",
+    "error": null
+  },
+  {
+    "name": "Shinobu Kocho",
+    "wiki": "kimetsu-no-yaiba",
+    "status": "fetched",
+    "url": "https://kimetsu-no-yaiba.fandom.com/en/wiki/Shinobu_Kocho",
+    "error": null
+  }
+]
